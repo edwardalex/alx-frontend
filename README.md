@@ -1,2 +1,2 @@
-## 0x00. Advanced HTML
+This is the first repository in the Web Stack specialization.
 
